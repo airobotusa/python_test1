@@ -9,6 +9,9 @@ and time
   ------------------------------------
    Press STOP to exit the program!
   ------------------------------------
+great clock in python. 
+email:airobotusa@gmail.com
+
 """
 from turtle import *
 from datetime import datetime
